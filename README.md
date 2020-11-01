@@ -17,7 +17,7 @@
 - [네이버 부동산 크롤링](http://blog.naver.com/PostView.nhn?blogId=inasie&logNo=221353956889)
 - [파이썬 웹 크롤링](https://engkimbs.tistory.com/911) :  부동산 공공데이터 웹스크랩핑
 ## Links
-- Repository: (예시) https://github.com/shinkeebong/my_project
+- Repository: https://github.com/shinkeebong/my_project
   
  
 ## License
