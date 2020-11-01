@@ -14,10 +14,8 @@
 ## Contributing
 - Thanks to @이창엽 튜터님
 ## Reference
-- [네이버 지도 API](https://www.ncloud.com/product/applicationService/maps) : 장소카드 지도화면에 사용
-- [카카오 지도 API](https://apis.map.kakao.com/) : 장소카드 지도화면에 사용
 - [네이버 부동산 크롤링](http://blog.naver.com/PostView.nhn?blogId=inasie&logNo=221353956889)
-- [파이썬 웹크롤링](https://engkimbs.tistory.com/911) :  부동산 공공데이터 웹스크랩핑
+- [파이썬 웹 크롤링](https://engkimbs.tistory.com/911) :  부동산 공공데이터 웹스크랩핑
 ## Links
 - Repository: (예시) https://github.com/shinkeebong/my_project
   
