@@ -26,5 +26,5 @@
   
  
 ## License
-신기봉 – [이메일 주소1](mailto:shinkeebong@naver.com)  
+신기봉 – [이메일 주소](mailto:shinkeebong@naver.com)  
 XYZ license를 준수합니다. ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.  
